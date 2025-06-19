@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -20,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
