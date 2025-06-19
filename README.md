@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Bit Manipulation
 |  |
