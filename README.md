@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0969-number-of-recent-calls](https://github.com/srushtinb/DSA-JAVA/tree/master/0969-number-of-recent-calls) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/srushtinb/DSA-JAVA/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/srushtinb/DSA-JAVA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
