@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -110,13 +111,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/srushtinb/DSA-JAVA/tree/master/3379-score-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
