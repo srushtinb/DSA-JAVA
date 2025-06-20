@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/srushtinb/DSA-JAVA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/srushtinb/DSA-JAVA/tree/master/2384-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0113-path-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
