@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/srushtinb/DSA-JAVA/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
