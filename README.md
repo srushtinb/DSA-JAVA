@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/srushtinb/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushtinb/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0136-single-number) |
 | [1677-matrix-diagonal-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
@@ -146,5 +147,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/srushtinb/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/srushtinb/DSA-JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
