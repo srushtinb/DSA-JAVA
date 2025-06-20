@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2384-root-equals-sum-of-children](https://github.com/srushtinb/DSA-JAVA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2384-root-equals-sum-of-children](https://github.com/srushtinb/DSA-JAVA/tree/master/2384-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
 | ------- |
