@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/srushtinb/DSA-JAVA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/srushtinb/DSA-JAVA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/srushtinb/DSA-JAVA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
