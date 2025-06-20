@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/srushtinb/DSA-JAVA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushtinb/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
