@@ -98,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/srushtinb/DSA-JAVA/tree/master/0969-number-of-recent-calls) |
 ## Recursion
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/srushtinb/DSA-JAVA/tree/master/0058-length-of-last-word) |
+| [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/srushtinb/DSA-JAVA/tree/master/3379-score-of-a-string) |
 ## Math
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
