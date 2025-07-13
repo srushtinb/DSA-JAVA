@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/srushtinb/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/srushtinb/DSA-JAVA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
