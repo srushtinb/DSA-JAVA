@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/srushtinb/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
 | [1677-matrix-diagonal-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -145,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/srushtinb/DSA-JAVA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/srushtinb/DSA-JAVA/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
