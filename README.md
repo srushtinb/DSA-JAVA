@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srushtinb/DSA-JAVA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srushtinb/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/srushtinb/DSA-JAVA/tree/master/0075-sort-colors) |
@@ -183,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srushtinb/DSA-JAVA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/srushtinb/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srushtinb/DSA-JAVA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/srushtinb/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
