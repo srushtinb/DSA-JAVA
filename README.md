@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
+| [0560-subarray-sum-equals-k](https://github.com/srushtinb/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srushtinb/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/srushtinb/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/srushtinb/DSA-JAVA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/srushtinb/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srushtinb/DSA-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/srushtinb/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/srushtinb/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
