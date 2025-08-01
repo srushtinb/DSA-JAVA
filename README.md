@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/srushtinb/DSA-JAVA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srushtinb/DSA-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/srushtinb/DSA-JAVA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -242,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/srushtinb/DSA-JAVA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/srushtinb/DSA-JAVA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
