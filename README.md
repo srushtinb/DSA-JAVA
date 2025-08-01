@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srushtinb/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/srushtinb/DSA-JAVA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/srushtinb/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/srushtinb/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/srushtinb/DSA-JAVA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/srushtinb/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srushtinb/DSA-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srushtinb/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [1677-matrix-diagonal-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/srushtinb/DSA-JAVA/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/srushtinb/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
