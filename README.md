@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srushtinb/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/srushtinb/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/srushtinb/DSA-JAVA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srushtinb/DSA-JAVA/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/srushtinb/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/srushtinb/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/srushtinb/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/srushtinb/DSA-JAVA/tree/master/0292-nim-game) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/srushtinb/DSA-JAVA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/srushtinb/DSA-JAVA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
