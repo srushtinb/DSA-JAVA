@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/srushtinb/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/srushtinb/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/srushtinb/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/srushtinb/DSA-JAVA/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/srushtinb/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/srushtinb/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/srushtinb/DSA-JAVA/tree/master/3379-score-of-a-string) |
 ## Math
