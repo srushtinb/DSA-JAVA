@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
