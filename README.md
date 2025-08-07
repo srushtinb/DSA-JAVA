@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/srushtinb/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srushtinb/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/srushtinb/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/srushtinb/DSA-JAVA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/srushtinb/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
