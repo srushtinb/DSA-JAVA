@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/srushtinb/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/srushtinb/DSA-JAVA/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/srushtinb/DSA-JAVA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
