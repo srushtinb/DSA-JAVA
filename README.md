@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/srushtinb/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/srushtinb/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/srushtinb/DSA-JAVA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/srushtinb/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srushtinb/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
