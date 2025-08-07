@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srushtinb/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/srushtinb/DSA-JAVA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0113-path-sum-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srushtinb/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/srushtinb/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/srushtinb/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/srushtinb/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/srushtinb/DSA-JAVA/tree/master/0067-add-binary) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srushtinb/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/srushtinb/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srushtinb/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srushtinb/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
