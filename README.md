@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srushtinb/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/srushtinb/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srushtinb/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0933-increasing-order-search-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0933-increasing-order-search-tree) |
 ## Linked List
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/srushtinb/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/srushtinb/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/srushtinb/DSA-JAVA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/srushtinb/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srushtinb/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/srushtinb/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srushtinb/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/srushtinb/DSA-JAVA/tree/master/0344-reverse-string) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/srushtinb/DSA-JAVA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/srushtinb/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srushtinb/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/srushtinb/DSA-JAVA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/srushtinb/DSA-JAVA/tree/master/0326-power-of-three) |
